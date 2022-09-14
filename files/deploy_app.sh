@@ -18,5 +18,5 @@ cat << EOM > /var/www/html/index.html
   </body>
 </html>
 EOM
-
+echo "Welcome to Seema's app. Love the world"
 echo "Script complete."
